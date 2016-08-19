@@ -1,7 +1,13 @@
-div.bar {
-    margin-right: 3px;
-    display: inline-block;
-    width: 20px;
-    height: 75px;   /* We'll override this later */
-    background-color: teal;
-}
+/*
+SCG Styling in CSS format
+*/
+
+.pumpkin {
+    fill: yellow;
+    stroke: orange;
+    stroke-width: 5;
+ }
+
+ .half-transparent {
+  opacity: 0.5;
+ }
